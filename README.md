@@ -1,4 +1,4 @@
-# college_information_query_intent
+#College-Info-Bot
 
 This project is focused on classifying text to corresponding intent using Temporal Convolution Neural Network(TCN).
 
